@@ -8,6 +8,6 @@ Description Of Files:
 
 webcam.py => For Run ===> python webcam.py
 
-Required Packages For python ===> opencv-python
+Required Packages For Python ===> opencv-python
 
 opencv-python ===> to install => pip install opencv-python
