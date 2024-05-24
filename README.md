@@ -1,4 +1,4 @@
-Project Name ===> Webcam photography program
+Project Name ===> Webcam photography Program
 
 Program Description ===> When The Program Runs, The System Camera Is Activated And Takes A Picture Of You
 
