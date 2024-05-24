@@ -10,4 +10,4 @@ webcam.py => For Run ===> python webcam.py
 
 Required Packages For Python ===> opencv-python
 
-opencv-python ===> To install => pip install opencv-python
+opencv-python ===> To Install => pip install opencv-python
