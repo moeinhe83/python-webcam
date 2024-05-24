@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Description Of Files:
 
-webcam.py ==> For Run ===> python webcam.py
+webcam.py => For Run ===> python webcam.py
 
 Required packages for python ===> opencv-python
 
